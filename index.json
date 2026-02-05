@@ -1,0 +1,31 @@
+{
+  "name": "Brutus WorldDev Listing",
+  "author": "DoggoBrutus",
+  "id": "com.brutus.worlddev",
+  "url": "https://github.com/PupBrutus/brutus-worlddev-tools/index.json",
+  "packages": {
+    "com.brutus.worlddev-tools": {
+      "versions": {
+        "1.0.0": {
+          "name": "com.brutus.worlddev-tools",
+          "displayName": "Brutus WorldDev Tools",
+          "version": "1.0.0",
+          "unity": "2022.3",
+          "description": "Editor tooling for VRChat world development: Udon behavior profiling, lighting analysis, and polygon counting.",
+          "author": {
+            "name": "DoggoBrutus"
+          },
+          "license": "MIT",
+          "keywords": [
+            "vrchat",
+            "udon",
+            "editor",
+            "tools"
+          ],
+          "vpmDependencies": {},
+          "dependencies": {}
+        }
+      }
+    }
+  }
+}
